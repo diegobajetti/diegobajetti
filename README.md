@@ -16,7 +16,7 @@
 
 ### Welcome to my GitHub Profile!
 ---
-I'm a dedicated student and aspiring programmer in my first year of university. I'm currently in the Computer Science (CO-OP) program at uOttawa and look forward to spending the next 5 years learning and improving as a programmer. I have experience working with Python and Java, and I'm self-learning HTML, CSS, and JavaScript. I'm actively looking for a CO-OP placement for summer 2021 to finally put my knowledge to practice in the real world.
+I'm a dedicated student and aspiring programmer in my first year of university. I'm currently in the Computer Science (CO-OP) program at uOttawa and look forward to spending the next 5 years learning and improving as a programmer. I have experience working with Python and Java, and I'm self-learning HTML, CSS, and JS as well as React and Node.js. I'm looking forward to begin my first CO-OP work placement this summer to finally put my knowledge to practice in the real world.
 
 ### Contact Me
 ---
