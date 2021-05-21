@@ -41,6 +41,6 @@ I'm a dedicated student and aspiring programmer in my first year of university. 
 <br/>
 
 ## My Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegobajetti&count_private=true&hide=stars,prs&show_icons=true&locale=en&include_all_commits=trueC&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegobajetti&count_private=true&hide=stars,prs&show_icons=true&locale=en&include_all_commits=trueC&theme=react)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobajetti&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobajetti&theme=react)
