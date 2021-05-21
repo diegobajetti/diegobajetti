@@ -15,19 +15,17 @@
   <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white"/>
 <p/>
 
-### Welcome to my GitHub Profile!
----
+## Welcome to my GitHub Profile!
 I'm a dedicated student and aspiring programmer in my first year of university. I'm currently in the Computer Science (CO-OP) program at uOttawa and look forward to spending the next 5 years learning and improving as a programmer. I have experience working with Python, Java, Angular/NestJS, and TypeScript, and I'm self-learning HTML, CSS, and JS. I'm looking forward to begin my first CO-OP work placement this summer to finally put my knowledge to practice in the real world. Wait, past me? I'm already in that first CO-OP! So far it has been a pleasure working in VectorSolv. I have learned a lot of extermely useful stuff among amazing people.
 
-### Contact Me
----
+## Contact Me
 [<img align="left" width="50px" height="50px" title="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg"/>](https://www.linkedin.com/in/diegobajetti)
 [<img align="left" width="50px" height="50px" title="Email" src="https://simpleicons.org/icons/microsoftoutlook.svg"/>](mailto:diego.bajetti@outlook.com)
 <br/>
 <br/>
 
-### Languages and Tools
----
+## Languages and Tools
+
 <img align="left" width="50px" height="50px" title="Python" src="https://simpleicons.org/icons/python.svg"/>
 <img align="left" width="50px" height="50px" title="Java" src="https://simpleicons.org/icons/java.svg"/>
 <img align="left" width="50px" height="50px" title="Angular" src="https://simpleicons.org/icons/angular.svg"/>
@@ -42,8 +40,7 @@ I'm a dedicated student and aspiring programmer in my first year of university. 
 <br/>
 <br/>
 
-### My Stats
----
+## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegobajetti&count_private=true&hide=stars,prs&show_icons=true&locale=en&include_all_commits=trueC&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegobajetti&theme=tokyonight)
