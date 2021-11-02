@@ -16,7 +16,7 @@
 <p/>
 
 ## Welcome to my GitHub Profile!
-I'm a dedicated student and aspiring programmer in my first year of university. I'm currently in the Computer Science (CO-OP) program at uOttawa and look forward to spending the next 5 years learning and improving as a programmer. I have experience working with Python, Java, Angular/NestJS, and TypeScript, and I'm self-learning HTML, CSS, and JS. I'm looking forward to begin my first CO-OP work placement this summer to finally put my knowledge to practice in the real world. Wait, past me? I'm already in that first CO-OP! So far it has been a pleasure working in VectorSolv. I have learned a lot of extermely useful stuff among amazing people.
+I'm a dedicated student and aspiring programmer in my second year of university. I'm currently in the Computer Science (CO-OP) program at uOttawa and look forward to spending the next 4 years learning and improving as a programmer. I have experience working with Python and Java, and extensive real-world experience with Angular/NestJS and TypeScript thanks to my recent CO-OP work term at a startup company. I'm looking forward to begin my second CO-OP work placement next summer to finally put my knowledge to practice in the real world.
 
 ## Contact Me
 [<img align="left" width="50px" height="50px" title="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg"/>](https://www.linkedin.com/in/diegobajetti)
