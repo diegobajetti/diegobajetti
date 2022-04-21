@@ -24,22 +24,6 @@ I'm a dedicated student and aspiring programmer in my second year of university.
 <br/>
 <br/>
 
-## Languages and Tools
-
-<img align="left" width="50px" height="50px" title="Python" src="https://simpleicons.org/icons/python.svg"/>
-<img align="left" width="50px" height="50px" title="Java" src="https://simpleicons.org/icons/java.svg"/>
-<img align="left" width="50px" height="50px" title="Angular" src="https://simpleicons.org/icons/angular.svg"/>
-<img align="left" width="50px" height="50px" title="NestJS" src="https://simpleicons.org/icons/nestjs.svg"/>
-<img align="left" width="50px" height="50px" title="HTML" src="https://simpleicons.org/icons/html5.svg"/>
-<img align="left" width="50px" height="50px" title="CSS" src="https://simpleicons.org/icons/css3.svg"/>
-<img align="left" width="50px" height="50px" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg"/>
-<img align="left" width="50px" height="50px" title="TypeScript" src="https://simpleicons.org/icons/typescript.svg"/>
-<img align="left" width="50px" height="50px" title="VS Code" src="https://simpleicons.org/icons/visualstudiocode.svg"/>
-<img align="left" width="50px" height="50px" title="GitHub" src="https://simpleicons.org/icons/github.svg"/>
-<img align="left" width="50px" height="50px" title="Git" src="https://simpleicons.org/icons/git.svg"/>
-<br/>
-<br/>
-
 ## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegobajetti&count_private=true&hide=stars,prs&show_icons=true&locale=en&include_all_commits=trueC&theme=react)
 
