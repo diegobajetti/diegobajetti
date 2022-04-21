@@ -18,12 +18,6 @@
 ## Welcome to my GitHub Profile!
 I'm a dedicated student and aspiring programmer in my second year of university. I'm currently in the Computer Science (CO-OP) program at uOttawa and look forward to spending the next 4 years learning and improving as a programmer. I have experience working with Python and Java, and extensive real-world experience with Angular/NestJS and TypeScript thanks to my recent CO-OP work term at a startup company. I'm looking forward to begin my second CO-OP work placement this summer (summer 2022) to finally put my knowledge to practice in the real world.
 
-## Contact Me
-[<img align="left" width="50px" height="50px" title="LinkedIn" src="https://simpleicons.org/icons/linkedin.svg"/>](https://www.linkedin.com/in/diegobajetti)
-[<img align="left" width="50px" height="50px" title="Email" src="https://simpleicons.org/icons/microsoftoutlook.svg"/>](mailto:diego.bajetti@outlook.com)
-<br/>
-<br/>
-
 ## My Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegobajetti&count_private=true&hide=stars,prs&show_icons=true&locale=en&include_all_commits=trueC&theme=react)
 
